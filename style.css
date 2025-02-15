@@ -1,0 +1,107 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body{
+  background-color: #F5F4F0;
+  font-family: "Open Sans", serif;
+}
+
+.page {
+  width: 1120px;
+  margin: 88px auto;
+}
+
+main {
+  
+}
+
+.cabecalho {
+
+}
+
+.subttulo__cabecalho, .subtitulo__text{
+  color: #E1624F;
+
+  font-size: 16px;
+  font-weight: bold;
+
+  text-transform: uppercase;
+  /* margin-bottom: 4px; */
+}
+
+.titulo__cabecalho{
+  font-size: 41px;
+  margin-bottom: 40px;
+}
+
+.imagem__principal {
+  border-radius: 20px;
+
+  margin-bottom: 24px;
+}
+
+.paragrafo__principal{
+  font-size: 16px;
+  font-weight: 400;
+  text-align: center;
+
+  color: #333333;
+}
+
+.sessao-viagens{
+  margin-top: 64px;
+}
+
+.titulo__text{
+  font-size: 32px;
+}
+
+.titulo__text{
+  margin-bottom: 8px;
+}
+
+.paragrafo__text{
+  font-weight: 400;
+  color: #333333;
+}
+
+.locais{
+  margin-top: 64px;
+  margin-bottom: 44px;
+}
+
+.imagem__local-1, .imagem__local-2, .imagem__local-3 {
+  margin-bottom: 20px;
+  border-radius: 40px;
+  border: none;
+}
+
+.titulo__local-1, .titulo__local-2, .titulo__local-3{
+  font-size: 28px;
+  margin-bottom: 6px;
+}
+
+.imagem__local-2, .imagem__local-3{
+  margin-top: 46px;
+}
+
+ul h4{
+  font-size: 16px;
+  margin-top: 30px;
+}
+
+ul li span{
+  color: #0C51A7;
+  font-weight: bold;
+}
+
+li {
+  margin-left: 36px;
+}
+
+.local-3 li span{
+  color: #0C51A7;
+}
